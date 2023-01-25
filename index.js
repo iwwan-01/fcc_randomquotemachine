@@ -60,7 +60,7 @@ const App = () => {
               ) : (
                 <h3>Loading...</h3>
               )}
-              <div className='row'>
+              <div className='row mx-1'>
                 <button
                   id='new-quote'
                   className='btn btn-primary col-4'
